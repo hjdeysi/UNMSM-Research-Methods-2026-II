@@ -55,6 +55,9 @@ Blind pilot, 50 random records (seed 20261024). The AI file matched the SHA-256 
 
 All 10 binary disagreements had the same direction (author passes, AI excludes); 8 concerned I3 and 2 concerned E5 (no control group stated). Code disagreements came from the v1 order, which coded document type after content. Changes adopted in v2: (i) I3 kept as tool-level scaffolding (option a) with the operational definition above and an explicit UNSURE band to reduce false negatives in the AI first pass; (ii) new code order E1 → E4 → E7 → E2 → E3 → E5 → E6 → E8 → E9.
 
+## Second blind pilot (criteria v2)
+20 new random records (seed 2026102402, excluding pilot 1 and records without abstract). AI decisions frozen before the author screens; SHA-256: `185cd08111ad49759d8820ea6b84947b4b1273a368f1e6db199616b1120c2ce9`.
+
 ## Prioritisation if more than 10 studies are eligible (fixed before screening)
 Randomised > quasi-experimental with control > counterbalanced crossover; then larger N; then more recent. Declared as a limitation.
 
