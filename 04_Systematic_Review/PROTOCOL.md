@@ -58,6 +58,8 @@ All 10 binary disagreements had the same direction (author passes, AI excludes);
 ## Second blind pilot (criteria v2)
 20 new random records (seed 2026102402, excluding pilot 1 and records without abstract). AI decisions frozen before the author screens; SHA-256: `185cd08111ad49759d8820ea6b84947b4b1273a368f1e6db199616b1120c2ce9`.
 
+Results (AI file matched the registered hash): binary agreement 95 % (19/20); Cohen's kappa 0.64 (binary) and 0.65 (3 categories); PABAK 0.90; exclusion-code agreement 17/18. Low prevalence (2/20 to full text) widens uncertainty around kappa. The only binary disagreement (R128: author UNSURE, AI E3) concerned a purpose-built pedagogical agent whose reasoning-eliciting function was unclear; under rule 4 it belongs to the UNSURE band, so the author's decision is adopted and the AI first pass is instructed to place purpose-built pedagogical agents of unclear function in UNSURE. **Criteria v2 are frozen for the first pass (2026-10-24).**
+
 ## Prioritisation if more than 10 studies are eligible (fixed before screening)
 Randomised > quasi-experimental with control > counterbalanced crossover; then larger N; then more recent. Declared as a limitation.
 

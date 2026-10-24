@@ -1,0 +1,21 @@
+rid,decision,code,note
+R052,EXCLUDE,E3,Unconfigured ChatGPT as feedback provider vs AWE vs control (randomised); writing score
+R131,EXCLUDE,E4,Analysis of cases and teaching materials on prompting; not a primary study
+R285,INCLUDE,,PA-GPT: ChatGPT configured as virtual peer in peer-assessment cycle vs traditional ChatGPT (C1); RCT; knowledge + critical thinking
+R222,EXCLUDE,E4,Qualitative review / conceptual model
+R103,EXCLUDE,E3,ChatGPT-integrated curriculum, generic use; perceptions
+R480,EXCLUDE,E3,Generic ChatGPT + Grammarly; single group (E5 also)
+R436,EXCLUDE,E3,Generic AI; qualitative case study
+R201,EXCLUDE,E1,LLM theorem-proving benchmark; no student participants
+R281,EXCLUDE,E4,Editorial
+R490,EXCLUDE,E4,Essay
+R128,EXCLUDE,E3,Pedagogical agent providing explanation/feedback; no reasoning-eliciting design stated
+R055,EXCLUDE,E4,Narrative synthesis + framework on LLM integration; SNOWBALL
+R531,EXCLUDE,E4,Descriptive paper on LLM application directions; no primary study
+R213,EXCLUDE,E3,Generic GenAI use by doctoral students; interviews
+R400,EXCLUDE,E1,University EFL teachers
+R155,EXCLUDE,E7,arXiv preprint; design case without controlled outcomes (relevant context for agent design)
+R328,EXCLUDE,E3,Teaching reform with generic GenAI
+R288,EXCLUDE,E3,TAM survey
+R595,EXCLUDE,E4,Literature analysis (Ukrainian)
+R597,EXCLUDE,E3,UTAUT survey
