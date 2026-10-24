@@ -60,6 +60,11 @@ All 10 binary disagreements had the same direction (author passes, AI excludes);
 
 Results (AI file matched the registered hash): binary agreement 95 % (19/20); Cohen's kappa 0.64 (binary) and 0.65 (3 categories); PABAK 0.90; exclusion-code agreement 17/18. Low prevalence (2/20 to full text) widens uncertainty around kappa. The only binary disagreement (R128: author UNSURE, AI E3) concerned a purpose-built pedagogical agent whose reasoning-eliciting function was unclear; under rule 4 it belongs to the UNSURE band, so the author's decision is adopted and the AI first pass is instructed to place purpose-built pedagogical agents of unclear function in UNSURE. **Criteria v2 are frozen for the first pass (2026-10-24).**
 
+## First pass (AI) and blind verification
+525 records with abstract (615 minus 70 pilot records minus 20 without abstract) were screened with `screening/first_pass_rubric.md` in five parallel batches by Claude (Anthropic) subagents; the lead reviewer checked the consistency of all INCLUDE/UNSURE decisions and changed one record (R341: E9 → UNSURE, to confirm full-text language). Result: 21 INCLUDE, 50 UNSURE, 454 EXCLUDE. The decisions file is withheld from the author until her verification is complete; SHA-256: `2c7a934964c424d380fa3116c9dd2a0f8805db8104b8cb13b98de6e3a73f1000`.
+
+Blind verification set (seed 2026102403): all 71 records sent to full text plus a random 10 % (45) of the excluded records, shuffled together without labels (`screening/verification_ids.json`).
+
 ## Prioritisation if more than 10 studies are eligible (fixed before screening)
 Randomised > quasi-experimental with control > counterbalanced crossover; then larger N; then more recent. Declared as a limitation.
 
