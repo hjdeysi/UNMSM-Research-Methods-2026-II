@@ -68,6 +68,11 @@ Blind verification set (seed 2026102403): all 71 records sent to full text plus 
 ## Prioritisation if more than 10 studies are eligible (fixed before screening)
 Randomised > quasi-experimental with control > counterbalanced crossover; then larger N; then more recent. Declared as a limitation.
 
+## Deviation 1 — prioritised full-text assessment (approved by the author, 2026-10-24 13:43)
+About 110 reports reach full text, which cannot be assessed before the deadline. Full texts are therefore assessed **in the order of the a priori prioritisation rule** (randomised > quasi-experimental with control > counterbalanced crossover; then larger N; then more recent), using design and N as stated in the abstract to order the queue (`screening/fulltext_candidates_ranked.csv`), and assessment **stops when 10 studies are eligible**. Reports not reached are reported in PRISMA as "not assessed: cap reached under the pre-specified prioritisation rule". Rationale: under that rule the 10 selected studies are those a complete assessment would select. Limitations: the total number of eligible studies remains unknown, and abstract-reported design/N may differ from the full text (the queue is re-ordered as full texts correct it). Records rescued in the author's verification are added to the queue.
+
+Full-text procedure: Claude (Anthropic) extracts, for each report in queue order, the eligibility evidence (design and control, tool configuration, population, outcomes, peer-review status) with page-referenced excerpts; **the author makes the final eligibility decision** for every report.
+
 ## Seed test of the criteria
 | Seed | I1 | I2 | I3 | I4 | I5 | I6 | Result |
 |---|---|---|---|---|---|---|---|
