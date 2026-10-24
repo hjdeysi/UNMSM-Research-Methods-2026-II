@@ -1,0 +1,51 @@
+rid,decision,code,note
+R188,UNSURE,,I2/I3 unclear: 'AI chatbot' (LLM?) framed as scaffold for task division; quasi-exp vs traditional flipped; SRL+performance
+R081,EXCLUDE,E1,Library practitioners; not students
+R327,EXCLUDE,E3,Theoretical article; no designed tool
+R020,EXCLUDE,E3,General GenAI use; qualitative
+R205,EXCLUDE,E5,Instructor-designed guided prompts (I3 arguable); case study without control
+R557,EXCLUDE,E3,UTAUT survey; no intervention tool
+R067,UNSURE,,Metacognitive support vs none in GenAI environment; quasi-exp; SRL+performance. Verify whether support is delivered by the tool (I3)
+R593,EXCLUDE,E3,Attitude survey
+R093,EXCLUDE,E3,Conceptual framework; no tool
+R358,EXCLUDE,E4,Conceptual Socratic-AI framework + literature review; relevant review for snowballing
+R543,EXCLUDE,E3,Unconfigured ChatGPT; qualitative case study
+R534,EXCLUDE,E3,Generic GenAI in collaborative learning; outcome creativity
+R367,INCLUDE,,Socratic GenAI assessment tool; quasi-exp; quiz scores + HOT. Check comparison (engaged vs not engaged = self-selection?) in full text
+R422,EXCLUDE,E3,Theoretical
+R533,EXCLUDE,E3,Conceptual model
+R171,EXCLUDE,E3,AI as mediator, not configured to elicit reasoning; single group (E5 also)
+R186,EXCLUDE,E3,GenAI gives feedback/guidance; no scaffolding design stated
+R503,EXCLUDE,E3,Theoretical, employment
+R463,UNSURE,,QuillBot (is it a generative LLM? I2); scaffolding is instructional (I3?); quasi-exp vs non-AI; SRL + ethical-integrity engagement
+R517,EXCLUDE,E3,Survey PLS-SEM
+R283,EXCLUDE,E3,AIAS course design; no tool configured
+R270,EXCLUDE,E3,GenAI provides materials/feedback within an instructional model; no tool scaffolding stated. Venue 'Advanced Electromagnetics' for an EFL study: check legitimacy
+R389,EXCLUDE,E3,Theoretical (Ukrainian)
+R355,EXCLUDE,E3,Conceptual policy analysis
+R303,EXCLUDE,E3,Course plan design
+R083,EXCLUDE,E5,GPT-4 metacognitive calibration feedback; single-group pilot without control
+R046,EXCLUDE,E1,LLM data extraction for clinical SRs; no student participants
+R446,EXCLUDE,E3,ChatGPT/Midjourney as generic tools in DBL
+R065,EXCLUDE,E3,Generic ChatGPT; perceptions
+R152,EXCLUDE,E3,Editorial
+R329,EXCLUDE,E1,LLM as annotation tool; no student participants
+R174,EXCLUDE,E3,Unconfigured ChatGPT feedback
+R144,EXCLUDE,E1,LLM thematic analysis; no student participants
+R286,EXCLUDE,E3,Generic GenAI for creativity
+R094,EXCLUDE,E3,Copilot; not a scaffolding tool
+R388,EXCLUDE,E1,Faculty
+R255,EXCLUDE,E5,AI assistant + quizzes (I3 unclear); two cycles without control group
+R613,UNSURE,,Human-GenAI dialogue mode (ERNIE Bot) as scaffold for questioning; within-subject (counterbalanced?); outcome questioning competence (I4?)
+R035,EXCLUDE,E3,Generic GenAI + XR; pre-post
+R588,EXCLUDE,E3,ChatGPT guidance replacing tutor; no scaffolding design stated (RCT)
+R330,EXCLUDE,E3,Curriculum (instructional) framework; no tool configured; preprint (E7 also)
+R336,EXCLUDE,E3,Phase-based AI restriction design (relevant context for restrictive condition)
+R487,EXCLUDE,E4,Study protocol of Socratic tutor (preprint); monitor
+R061,UNSURE,,Custom GPT mentors (RAG); configuration unknown (I3); quasi-exp; performance
+R038,EXCLUDE,E3,ChatGPT used by teachers to give feedback
+R427,EXCLUDE,E3,Narrative review; not about scaffolding tools
+R208,EXCLUDE,E5,Phase 1 undergrads (phase 2 has 79% students -> E1 for that phase); challenge-support-reflection cycles; no control
+R087,EXCLUDE,E3,Course case study; generic AI
+R529,EXCLUDE,E3,Reflection essay
+R522,UNSURE,,GenAI agent delivering adaptive SSRL scaffolding vs static worksheets; quasi-exp 16 wk; outcomes = engagement/cognitive presence (I4?)
