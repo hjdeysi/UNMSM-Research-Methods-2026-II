@@ -5,7 +5,7 @@ import json, time, datetime, pathlib, urllib.parse, urllib.request
 
 BASE = "https://api.semanticscholar.org/graph/v1/paper/search/bulk"
 FIELDS = "paperId,title,abstract,year,venue,journal,publicationTypes,externalIds,authors"
-YEAR = "2023-2026"
+YEAR = "2022-2026"  # window aligned with criterion I2 (2022 to search date)
 
 # Final string (v3). Plain words are used instead of most prefix wildcards: known-item testing showed that
 # some wildcards (e.g. randomi*) silently fail in the bulk endpoint. See search_notes.md.
@@ -19,7 +19,7 @@ O = ('("critical thinking" | "self-regulated learning" | reflection | dependence
 D = ('(randomized | randomised | "controlled trial" | "quasi-experimental" | "quasi-experiment" | experiment | '
      'experimental | "control group" | "within-domain" | conditions | compares)')
 
-SEARCHES = {"C_final": f"+{P} +{T} +{M} +{O} +{D}"}
+SEARCHES = {"C_final_2022": f"+{P} +{T} +{M} +{O} +{D}"}
 
 def get(params, tries=6):
     url = BASE + "?" + urllib.parse.urlencode(params)
