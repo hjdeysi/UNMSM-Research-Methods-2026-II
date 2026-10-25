@@ -26,4 +26,4 @@ Student: Deisy Lizbeth Acosta Ticse
 Single human reviewer; AI-assisted first pass (blind verification: 1 of 45 sampled exclusions rescued, 2.2 %); 11 full texts not retrieved; cap of 10 studies (75 reports not assessed); no citation searching ("other methods" branch); two included studies do not name the LLM and one journal does not declare peer review.
 
 ## AI-use disclosure
-Claude (Anthropic) was used to run and document the search, to perform the first-pass title/abstract screening under criteria set and piloted by the author, to extract full-text evidence, and to draft the extraction matrix and gap table. All eligibility decisions and the final gap statements are the author's.
+Claude (Anthropic) was used to run and document the search, to perform the first-pass title/abstract screening under criteria set and piloted by the author, to extract full-text evidence, and to draft the extraction matrix. The author wrote the gap statements; Claude checked them against the extraction matrix, corrected counts and edited the English, and the author approved the final text. All eligibility decisions are the author's.
