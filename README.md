@@ -13,6 +13,7 @@
 - [Deliverable 03 - Research Protocol](03_Research_Protocol/)
 - [Deliverable 04 - Mini Systematic Review + PRISMA 2020 + Gap Analysis](04_Systematic_Review/)
 - [Deliverable 05 - Reproducible ML Pipeline](05_Reproducible_Pipeline/) · repository: https://github.com/hjdeysi/repro-lab
+- [Deliverable 06 - Reproducibility Audit Report](06_Reproducibility_Audit/)
 - [Deliverable 07 - Model Card + Datasheet](07_Model_Card_Datasheet/)
 
 This repository contains the weekly deliverables developed throughout the course. New deliverables will be added progressively during the semester.
