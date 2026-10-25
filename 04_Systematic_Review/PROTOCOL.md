@@ -73,6 +73,14 @@ About 110 reports reach full text, which cannot be assessed before the deadline.
 
 Full-text procedure: Claude (Anthropic) extracts, for each report in queue order, the eligibility evidence (design and control, tool configuration, population, outcomes, peer-review status) with page-referenced excerpts; **the author makes the final eligibility decision** for every report.
 
+## Full-text assessment, round 1 (2026-10-24, 21:46–22:15)
+Queue assessed in priority order (`screening/fulltext_assessment_round1.csv`). Evidence extracted by Claude from full texts (one web-access approval per site by the author); final decisions by the author.
+
+- Author decisions on borderline reports (option "a", 21:52): R478 included as a new comparator class **C3 (scaffolded vs scaffolded tool)**; R272 included with low-quality flag; R047 and R250 included with "LLM not specified" declared as a limitation; R602 included with "peer review not declared by the journal" declared as a limitation; R362 excluded E6; R085 excluded E3.
+- The 10th eligible study in priority order was R061 (#34), so assessment stopped there (Deviation 1). R079 (#35) had already been read and would have been eligible; it is reported as beyond the cap, not as excluded.
+- Counts up to the cap: 34 reports sought; 11 not retrieved (paywall or site refusal); 23 assessed; 13 excluded (E3 10, E2 1, E6 1, E9 1); **10 included**.
+- Correction logged: priorities #33–34 were initially skipped by the lead reviewer and assessed afterwards; queue order was restored before applying the cap.
+
 ## Seed test of the criteria
 | Seed | I1 | I2 | I3 | I4 | I5 | I6 | Result |
 |---|---|---|---|---|---|---|---|
