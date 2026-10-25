@@ -1,0 +1,5 @@
+{"database":"Semantic Scholar (bulk search, 2026-10-24)","identified":617,"duplicates_removed":2,"automation_ineligible":0,"other_removed":0,
+"screened":615,"excluded_ta":507,"excluded_ta_human":98,"excluded_ta_automation":409,
+"sought":108,"not_retrieved":11,"not_assessed_cap":75,"assessed":22,
+"excluded_ft":{"E3 no reasoning scaffolding in the tool":9,"E2 no generative LLM":1,"E6 no outcome of interest":1,"E9 language":1},
+"included_studies":10,"included_reports":10}

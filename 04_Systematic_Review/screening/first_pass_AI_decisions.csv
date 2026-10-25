@@ -1,0 +1,526 @@
+rid,decision,code,flag,note,batch
+R001,EXCLUDE,E3,,ChatGPT used generically to generate tasks and automated feedback; no reasoning scaffold,1
+R002,EXCLUDE,E3,,Unconfigured ChatGPT-4o vs traditional resources; no scaffolding in tool,1
+R003,EXCLUDE,E3,,Survey of students about general GenAI use,1
+R004,EXCLUDE,E4,SNOWBALL,Conceptual paper proposing cognitive partnership model; no empirical study,1
+R005,EXCLUDE,E1,,Participants are lecturers not students,1
+R006,EXCLUDE,E4,SNOWBALL,Systematic review and meta-analysis of GenAI in STEM; useful for snowballing,1
+R007,EXCLUDE,E5,,Single-group pre-post exploratory experiment; no control group,1
+R008,EXCLUDE,E7,,Meeting abstract in J Immunol; survey of educators and students,1
+R009,EXCLUDE,E7,,arXiv preprint; relevant topic (LLM-guided reflection prompts vs none),1
+R010,EXCLUDE,E1,,Retrieval technique evaluated on dataset; no student participants as subjects,1
+R011,EXCLUDE,E4,,SSRN conceptual paper on pedagogical conditions; no primary study,1
+R012,EXCLUDE,E3,,Qualitative case study of generic GenAI use in EFL writing,1
+R013,EXCLUDE,E3,,Unconfigured ChatGPT as writing feedback provider vs teacher-led,1
+R014,EXCLUDE,E1,,Instructors judge ChatGPT vs student reflections; no student intervention,1
+R015,EXCLUDE,E7,,Pecha Kucha presentation summarising a survey,1
+R016,INCLUDE,,,LLM metacognitive reflective learning agent; 2x2 quasi-experiment; metacognition outcome,1
+R017,EXCLUDE,E3,,Interview study on perceptions of generic AI translation tools,1
+R018,EXCLUDE,E3,,Single-group reflections on generic GenAI use in problem solving,1
+R019,EXCLUDE,E1,,Lecturers interviewed; no student participants,1
+R021,UNSURE,,,Supervised ChatGPT retrieval practice with metacognitive reflection; delayed-intervention comparison; unclear if scaffold in tool,1
+R022,EXCLUDE,E3,,Generic ChatGPT exercises vs control; no scaffolding in tool,1
+R023,EXCLUDE,E4,SNOWBALL,Narrative review on AI literacy scaffolding and dependency,1
+R024,EXCLUDE,E3,,UTAUT survey with PLS-SEM,1
+R025,EXCLUDE,E1,,Lecturers survey and interviews,1
+R026,EXCLUDE,E1,,Collaborative autoethnography of educators,1
+R027,EXCLUDE,E3,,GenAI used generically for offloaded lower-order tasks; scaffolding in instruction,1
+R028,EXCLUDE,E3,,AI users vs non-users; no scaffolding in tool,1
+R029,UNSURE,,,Socratic GPT vs direct-answer GPT quasi-experiment; outcomes mainly behaviours and perceptions,1
+R030,UNSURE,,,Prompt-engineered LLM NPC game with scaffolding vs traditional; test outcome; reasoning elicitation unclear,1
+R031,EXCLUDE,E3,,Survey of teacher trainees GenAI use,1
+R032,UNSURE,,,Concept-map enhanced GenAI vs GenAI-only quasi-experiment; unclear if scaffold in tool; metacognitive awareness,1
+R033,EXCLUDE,E4,,Editorial of journal issue,1
+R034,EXCLUDE,E1,,Agent evaluates teachers' instruction; no student participants,1
+R036,UNSURE,,,Purpose-built adaptive assistant with metacognitive feedback; controlled setting suggests comparison; LLM unclear,1
+R037,EXCLUDE,E1,,Content analysis of institutional policy documents,1
+R039,UNSURE,,,Visual scaffolds plus AI feedback vs VGP quasi-experiment; metacognition; tool configuration unclear,1
+R040,EXCLUDE,E3,,Unconfigured ChatGPT feedback vs Grammarly vs instructor,1
+R041,EXCLUDE,E3,,Scaffolding is REACT instructional strategy; GenAI role generic,1
+R042,EXCLUDE,E3,,Cross-sectional survey on LLM cheating,1
+R043,EXCLUDE,E3,,Intervention is AI literacy course; tool provides no scaffolding,1
+R045,EXCLUDE,E1,,Framework evaluated on MOOCCubeX dataset; no student participants,1
+R047,INCLUDE,,,RCT; AI agent triggers non-directive process prompts; metacognition SRL and performance,1
+R048,INCLUDE,,,Randomised; LLM generates tailored contrasting case for reflection; content test,1
+R050,EXCLUDE,E3,,Qualitative interviews on generic ChatGPT engagement,1
+R051,EXCLUDE,E9,,Russian-language article (Cyrillic title); tool role unclear,1
+R054,EXCLUDE,E3,,Generic GAI in teacher-led teaching model; possible Chinese full text,1
+R056,UNSURE,,,GenAI vs human peer feedback comparison scaffolding SRL; tool configuration and outcome fit unclear,1
+R057,EXCLUDE,E3,,Survey with ANN modelling of over-reliance and plagiarism,1
+R058,EXCLUDE,E4,,Research blog on AI policy governance,1
+R059,EXCLUDE,E3,,Perception survey; Russian-language,1
+R060,EXCLUDE,E5,,Course case study with domain tutor; no student control group,1
+R062,EXCLUDE,E1,,Staff professional development design case,1
+R063,EXCLUDE,E3,,Generic GenAI tools in project-based learning vs control,1
+R064,EXCLUDE,E3,,Benchmark of LLM critical thinking vs students; no tool intervention,1
+R066,EXCLUDE,E6,,Metacognitive vs neutral chatbot feedback; outcomes emotions and motivation only; LLM unclear,1
+R068,EXCLUDE,E4,,Editorial,1
+R069,EXCLUDE,E3,,Qualitative interviews; Swedish-language,1
+R071,UNSURE,,,RCT pedagogically guided ChatGPT as metacognitive scaffold; unclear if scaffold in tool,1
+R072,EXCLUDE,E3,,AI literacy intervention; pre-experimental; tool not scaffold,1
+R073,EXCLUDE,E3,,Survey PLS-SEM,1
+R074,EXCLUDE,E3,,UTAUT survey,1
+R075,EXCLUDE,E3,,Unconfigured ChatGPT feedback vs human vs none (randomised),1
+R076,UNSURE,,,Custom virtual ChatGPT course vs traditional; configuration unclear; MAI and TOEIC outcomes,1
+R077,EXCLUDE,E3,,Generic NotebookLM used by literacy specialists to teach P-12,1
+R078,EXCLUDE,E1,,Teachers' narrative interviews,1
+R079,UNSURE,,,Purpose-built agentic AI TA with Socratic task; quasi-experiment; SRL; unclear if Socratic in tool,1
+R080,EXCLUDE,E1,,University teachers interviewed,1
+R082,EXCLUDE,E4,,Reflection essay on AI labour ethics,1
+R084,EXCLUDE,E4,,Analytical review and selection framework,1
+R085,INCLUDE,,,GenAI chatbot delivering SRL assistance vs no support; quasi-experiment; SRL strategies,1
+R086,EXCLUDE,E4,,Didactic proposal without outcome study,1
+R088,EXCLUDE,E1,,Secondary school students preparing for maturita,1
+R089,EXCLUDE,E1,,LLMs analyse dataset of reflection cards; no student intervention,1
+R090,EXCLUDE,E3,,Mixed-methods survey on self-directed PD with generic ChatGPT,1
+R091,EXCLUDE,E3,,Survey PLS-SEM on agency,1
+R092,EXCLUDE,E3,,Generic AI tools; one-group pre-post,1
+R095,EXCLUDE,E4,,Critical narrative review of psychological implications,1
+R096,EXCLUDE,E3,,Guided generic ChatGPT use; verification in instruction not tool,1
+R097,UNSURE,,,GenAI with SRL scaffolding vs GenAI vs control; unclear if scaffold in tool; critical thinking,1
+R098,EXCLUDE,E3,,Generic AI tools in writing vs traditional,1
+R100,EXCLUDE,E6,,AI vs human debriefing; outcomes sentiment and self-rated competence and self-efficacy,1
+R101,EXCLUDE,E3,,Survey on GenAI use and self-directed learning,1
+R102,EXCLUDE,E3,,Biocentric LLM assistant for decision-making; not pedagogical reasoning scaffold; population unclear,1
+R104,EXCLUDE,E3,,Generic ChatGPT on critical thinking tasks; single group,1
+R105,EXCLUDE,E3,,Post-editing pedagogy with generic MT/LLM; one-group pre-post,1
+R106,EXCLUDE,E3,,Unconfigured ChatGPT feedback vs peer feedback,1
+R107,EXCLUDE,E2,,Tutor interviews for chatbot design; no generative LLM used,1
+R108,EXCLUDE,E4,,Systematic literature review on editing software,1
+R109,EXCLUDE,E1,,Expert evaluation by teachers,1
+R110,EXCLUDE,E1,,Faculty interviews and survey,1
+R111,EXCLUDE,E3,,Generic AI tools in ESP; perceptions,1
+R112,EXCLUDE,E3,,Generic ChatGPT Grammarly QuillBot vs traditional,1
+R113,EXCLUDE,E5,,Custom AI platform; qualitative cohorts without control,1
+R114,EXCLUDE,E3,,Qualitative; generic AI output comparison task,1
+R115,EXCLUDE,E3,,Attitude survey,1
+R116,EXCLUDE,E7,,arXiv course model paper,1
+R117,EXCLUDE,E5,,Six students; qualitative perspectives on AI vs coach retrospectives,1
+R118,EXCLUDE,E3,,GenAI only provides feedback in virtual labs; comparison is simulation,1
+R119,EXCLUDE,E4,,Review of policies and studies in design education,1
+R120,EXCLUDE,E3,,Generic ChatGPT practice and feedback vs conventional,1
+R121,EXCLUDE,E3,,Informational election chatbot; no reasoning scaffold; no control,1
+R122,UNSURE,,,AI-scaffolded metacognitive prompts vs restricted vs unrestricted cohorts; unclear if prompts in tool,1
+R123,EXCLUDE,E3,,ChatGPT criterion feedback reviewed by researcher,1
+R124,EXCLUDE,E3,,Generic ChatGPT and Gemini vs control on laziness,1
+R125,EXCLUDE,E5,,AI-as-critic mechanism; qualitative artefact analysis without control,1
+R126,EXCLUDE,E3,,Cross-sectional survey of predictors of ethical GenAI use; no scaffolding tool,2
+R127,EXCLUDE,E3,,LLM chatbot vs conventional vocabulary learning; no reasoning scaffolding described in tool,2
+R129,EXCLUDE,E3,,TAM survey of teachers and students on general GenAI use,2
+R132,EXCLUDE,E7,,arXiv course description with instructor-coded artifact analysis,2
+R133,EXCLUDE,E5,,Custom GPT feedback chatbot; single group draft-revision design without control,2
+R135,EXCLUDE,E3,,Cohort comparison of ChatGPT version upgrade; unconfigured tool; scaffolding in pedagogy,2
+R136,INCLUDE,,,GCLA ChatGPT gives hints not answers vs traditional ChatGPT; RCT undergraduates; SRL HOTS knowledge,2
+R137,EXCLUDE,E3,,Cross-sectional survey of AI use among practitioners and students,2
+R138,UNSURE,,,RAG intelligent tutor within multi-component reform; quasi-experiment with control; reasoning elicitation unclear,2
+R139,EXCLUDE,E3,,Unconfigured Copilot/ChatGPT with pedagogical mediation; scaffolding in instruction not tool,2
+R140,EXCLUDE,E1,,Framework platform evaluated on text classification and question generation; no student outcome data,2
+R141,EXCLUDE,E3,,Generic AI platforms (ChatGPT Canva Quizlet) vs traditional; no scaffolding in tool,2
+R142,EXCLUDE,E1,,Conceptual paper about educators; no student participants,2
+R143,EXCLUDE,E3,,Interviews and surveys on SRL strategies in general GenAI use,2
+R145,EXCLUDE,E1,,Psychiatry CPD platform for clinicians; no HE student participants,2
+R146,EXCLUDE,E4,SNOWBALL,Conceptual paper on dialogical learning and epistemic integrity with GenAI,2
+R147,EXCLUDE,E3,,Same weaker LLM in all arms; reflection-first manipulation via assignment instructions not tool,2
+R148,EXCLUDE,E3,,AI spelling correction plus rubric education; generic tool; single group pre-post,2
+R149,EXCLUDE,E3,,Students used AI tool of choice for grammar correction; generic answer source,2
+R150,EXCLUDE,E4,SNOWBALL,Integrative literature review on GenAI cognition writing and agency,2
+R151,EXCLUDE,E3,,Review plus small experiment with generic ChatGPT and usage instructions,2
+R153,EXCLUDE,E5,,AI microteaching feedback system; UTAUT pre-post without control group,2
+R154,UNSURE,,,Parameterized ChatGPT differentiated feedback; quasi-experiment CT outcome; reasoning elicitation and control unclear,2
+R156,EXCLUDE,E2,,Interactive oral assessments; no generative LLM tool,2
+R157,EXCLUDE,E7,,Conference abstract; case study of free AI conversation apps,2
+R158,EXCLUDE,E3,,Unconfigured ChatGPT explanations for statistics; qualitative analysis,2
+R159,EXCLUDE,E5,,Question-first AI coaching; qualitative embedded case study without comparison,2
+R160,EXCLUDE,E4,,Conceptual pedagogical model for GenAI task adaptation by CEFR level,2
+R161,EXCLUDE,E3,,Generic GenAI tools (ChatGPT Character.AI) with VR as content generators,2
+R162,EXCLUDE,E3,,PLS-SEM survey of GenAI-supported logistics students,2
+R163,UNSURE,,,Adaptive vs fixed metacognitive prompts in GenAI writing environment; RCT SRL; unclear if LLM delivers prompts,2
+R164,EXCLUDE,E3,,ChatGPT as generic writing revision tool; pre-post document analysis,2
+R165,EXCLUDE,E1,,Autoethnographic poster by staff on LinkedIn; no students,2
+R166,EXCLUDE,E4,SNOWBALL,Documentary review of GenAI effects on critical thinking and SRL,2
+R167,EXCLUDE,E3,,Students' own prompts to generic GenAI; qualitative case study,2
+R168,EXCLUDE,E7,,arXiv preprint on RAG assistant implementation,2
+R169,EXCLUDE,E3,,Generic GenAI tools for speaking practice vs control,2
+R170,EXCLUDE,E4,SNOWBALL,Critical narrative review and design framework on GenAI and constructive alignment,2
+R172,EXCLUDE,E4,SNOWBALL,Systematic review of GenAI in academic reading and writing,2
+R173,EXCLUDE,E4,,Qualitative didactic analysis of scenarios; no participants,2
+R175,EXCLUDE,E7,,CHI extended abstract; career counseling chatbot,2
+R176,EXCLUDE,E1,,Commentary on LLM grading of essay dataset; no student participants,2
+R177,EXCLUDE,E3,,Cohort comparison of unguided vs instructor-structured generic AI use,2
+R178,EXCLUDE,E3,,Grammarly and ChatGPT as generic writing feedback; single group,2
+R179,EXCLUDE,E3,,ChatGPT as information gathering tool vs control; generic use,2
+R180,EXCLUDE,E3,,Qualitative interviews on general AI use in urban and rural contexts,2
+R181,EXCLUDE,E3,,Feedback literacy script and calibration activity are instructional interventions around generic AI feedback,2
+R182,UNSURE,,,Scaffolded GenAI tutor with reflective guidance; quasi-experiment CT knowledge; scaffold may be in instruction,2
+R183,EXCLUDE,E3,,Survey of college students' perceptions of ChatGPT,2
+R184,EXCLUDE,E1,,Essay by teachers on GenAI teaching portfolios; no students,2
+R185,EXCLUDE,E1,,Participants are university teachers in connectivist course,2
+R187,EXCLUDE,E4,SNOWBALL,Research-in-progress framework for LLM tutoring with adaptive hints; no outcome study,2
+R189,UNSURE,,,Question-chain prompting in GenAI environment; quasi-experiment metacognition achievement; unclear if tool delivers scaffold,2
+R190,EXCLUDE,E1,,Staff review of oral team assessment; no LLM tool,2
+R191,INCLUDE,,,LLM designed to facilitate self-reflection; two randomized field experiments; undergraduates; exam scores,2
+R192,EXCLUDE,E4,SNOWBALL,Conceptual Retrieval Interruption Framework on AI assistance timing,2
+R193,EXCLUDE,E3,,AI-guided vs human-guided error activity; AI replaces tutor; configuration not described,2
+R194,EXCLUDE,E1,,arXiv expert study with educators evaluating LLM dashboard explanations,2
+R195,UNSURE,,,Configured GenAI persona simulator vs peer role-play; quasi-experiment; reasoning scaffolding unclear,2
+R196,UNSURE,,,Purpose-built GenAI multi-agent system for CT; quasi-experiment with tests; elicitation function unclear,2
+R197,EXCLUDE,E3,,Comparison of student and ChatGPT-generated reflection texts; no tool intervention,2
+R198,EXCLUDE,E4,SNOWBALL,Critical review on AI dependency and doctoral independent thinking,2
+R200,EXCLUDE,E3,,Course design for critical ChatGPT use; generic tool; six students,2
+R202,EXCLUDE,E3,,LLM API as brainstorming and outline generator with corpus; no reasoning scaffold in LLM,2
+R203,EXCLUDE,E3,,Extended TAM survey of GenAI adoption,2
+R204,EXCLUDE,E4,,Conceptual analysis of AI integrity recommendation documents,2
+R206,EXCLUDE,E1,,Autoethnography by two lecturers; generic ChatGPT assignment,2
+R207,UNSURE,,,Socratic custom GPT vs ChatGPT; integrity outcome; A/B design with 12 students unclear,2
+R209,EXCLUDE,E4,,Conceptual AIMEL framework with propositions,2
+R210,EXCLUDE,E3,,Phenomenological study comparing student decisions with generic ChatGPT answers,2
+R211,EXCLUDE,E4,,Conceptual argument against GenAI prohibition for disabled students,2
+R212,EXCLUDE,E3,,Self-reflective study of generic ChatGPT PDF for thesis writing,2
+R214,EXCLUDE,E3,,Unconfigured ChatGPT-assisted vs independent writing experiment,2
+R215,EXCLUDE,E3,,Generic ChatGPT as learning tool; pre-post,2
+R216,EXCLUDE,E4,,Proposed UTAUT survey study; protocol,2
+R217,EXCLUDE,E3,,Instructional IEEC framework with generic ChatGPT; single group pre-post,2
+R218,EXCLUDE,E4,SNOWBALL,Qualitative systematic review on AI and metacognition in HE,2
+R219,EXCLUDE,E6,,Emotion-aware chatbot; outcomes anxiety and willingness to communicate only,2
+R220,EXCLUDE,E3,,Workshop and questionnaire on generic GenAI use in marketing,2
+R221,EXCLUDE,E3,,Intervention is contextual writing assessment design; no scaffolding LLM tool,2
+R223,EXCLUDE,E3,,Generic GenAI tools for EAP terminology; pre-post,2
+R224,EXCLUDE,E3,,Tutor-guided vs self-directed generic ChatGPT; scaffolding by tutor,2
+R225,EXCLUDE,E1,,arXiv LLM reasoning benchmark; no student participants,2
+R226,EXCLUDE,E3,,Phenomenological interviews on general GenAI use by pre-service teachers,2
+R227,EXCLUDE,E3,,Action research with phased generic AI tools,2
+R228,EXCLUDE,E3,,Correlational survey on AI literacy integrity and dependency,2
+R229,EXCLUDE,E3,,PBL with generic ChatGPT and GeoGebra; students evaluate AI answers,2
+R230,EXCLUDE,E3,,Survey regression on perceptions of GenAI in cognitive apprenticeship,2
+R231,EXCLUDE,E3,,Qualitative analysis of generic ChatGPT interaction in source interpretation,2
+R232,EXCLUDE,E4,SNOWBALL,Didactic model and templates for reflective vibe coding; no outcome study,2
+R233,EXCLUDE,E4,SNOWBALL,Conceptual comparison of AI tutor learning modes,2
+R234,EXCLUDE,E4,,Conceptual German-language article on GenAI in teacher education,2
+R235,EXCLUDE,E4,,Narrative overview of AI in physics education,2
+R236,EXCLUDE,E3,,Correlational survey of AI dependence and critical thinking,2
+R237,EXCLUDE,E3,,GenAI used to assess reflective writing; teacher-side tool,2
+R238,EXCLUDE,E3,,Generic GenAI in collaborative PBL vs traditional instruction,2
+R239,EXCLUDE,E7,,CHI extended abstract on self-disclosing stress chatbot,2
+R240,EXCLUDE,E3,,Generic GenAI content generation in service learning vs non-GenAI,2
+R241,UNSURE,,,Context-tuned vs non-tuned LLM chatbot for post-exam reflection; elicitation and outcomes unclear,2
+R242,EXCLUDE,E3,,Generic ChatGPT Poe Bard as feedback providers in instructional workflow; cluster RCT,2
+R243,EXCLUDE,E4,SNOWBALL,Perspective article on AI feedback and metacognitive calibration,2
+R244,EXCLUDE,E1,,Secondary school students; ChatGPT vocational guidance,2
+R245,UNSURE,,,Task-specific EduGPT vs ChatGPT vs control; experiment SRL; reasoning elicitation unclear,2
+R246,EXCLUDE,E4,,Proposed study protocol; future-tense methods,2
+R247,EXCLUDE,E4,,Russian-language conceptual analysis of LLMs in English teaching,2
+R248,EXCLUDE,E3,,Generic GenAI lab partner vs traditional; no scaffolding configured in tool,3
+R249,EXCLUDE,E4,,Platform proposal; pilot study only planned; no outcome data,3
+R250,INCLUDE,,,Agentic AI coach with goal-setting and reflection prompts vs reactive chat; quasi-exp; SRL and proficiency (LLM implied),3
+R252,EXCLUDE,E3,,Qualitative interviews on general teacher/GenAI feedback use,3
+R253,EXCLUDE,E5,,Configurable tutor; interaction analysis of prompt styles; no control group,3
+R254,EXCLUDE,E7,,arXiv preprint; teaching approaches not tool,3
+R256,EXCLUDE,E3,,Unconfigured ChatGPT revisions vs teacher instruction,3
+R257,EXCLUDE,E4,,Theoretical article on media culture,3
+R258,EXCLUDE,E5,,LLM group metacognitive scaffolding; high vs low cohesion groups; no control condition,3
+R259,EXCLUDE,E3,,Qualitative perceptions of AI psychological support,3
+R260,EXCLUDE,E3,,Generic GenAI feedback vs teacher vs blended,3
+R261,EXCLUDE,E4,SNOWBALL,Systematic review of AI interventions incl metacognitive support in HE,3
+R262,EXCLUDE,E3,,Unconfigured ChatGPT as source of decision recommendations,3
+R263,EXCLUDE,E3,,Generic ChatGPT writing assistance vs peer collaboration,3
+R264,EXCLUDE,E1,,Chronic pain vignettes; no student sample,3
+R265,UNSURE,,,Chatbot with metacognitive feedback vs none; RCT-like; generative LLM not stated,3
+R266,EXCLUDE,E3,,Qualitative interviews on doctoral GenAI use,3
+R267,EXCLUDE,E1,,Compares GPT outputs; no student participants,3
+R268,EXCLUDE,E4,SNOWBALL,Scoping review GenAI and higher-order thinking in programming,3
+R269,EXCLUDE,E4,SNOWBALL,Review GenAI autonomy and critical thinking in EFL writing,3
+R271,EXCLUDE,E4,SNOWBALL,DBR framework for LLM tutoring; no student outcome data yet,3
+R272,INCLUDE,,,LLM agent eliciting questions vs telling vs none; random assignment; reflection and JoL accuracy,3
+R273,EXCLUDE,E4,,Review on chatbot acceptance,3
+R274,EXCLUDE,E3,,Studio teaching case with generic AI tools,3
+R275,EXCLUDE,E3,,Generic multimodal GenAI tools for creative production,3
+R276,EXCLUDE,E3,,UTAUT/SCT adoption survey,3
+R277,EXCLUDE,E4,,Methodology development plus diagnostic survey; no outcome study,3
+R278,EXCLUDE,E3,,Unconfigured ChatGPT writing feedback vs traditional instruction,3
+R279,EXCLUDE,E1,,Authors' autoethnographic ChatGPT interactions; no students,3
+R280,EXCLUDE,E3,,Generic ChatGPT writing aid; one-group pre-post,3
+R282,EXCLUDE,E3,,Survey/mixed methods on GenAI addiction; no tool scaffolding,3
+R284,EXCLUDE,E4,,Conceptual article,3
+R287,EXCLUDE,E3,,Generic Grammarly/ChatGPT feedback; no control,3
+R289,UNSURE,,,Purpose-built AI platform with critical thinking guidance vs control; tool function unclear,3
+R290,EXCLUDE,E4,,Theoretical methodology paper (Ukrainian),3
+R291,EXCLUDE,E3,,Generic GenAI classes; single-group pre-post,3
+R292,EXCLUDE,E3,,Scaffolding in instructional workflows; generic GenAI assistant vs no AI,3
+R293,EXCLUDE,E3,,Question generation and feedback platform; surveys only,3
+R294,UNSURE,,,GAI as cognitive scaffold in flipped model; crossover quasi-exp; unclear if scaffolding in tool,3
+R295,EXCLUDE,E1,,Academic staff focus groups,3
+R296,EXCLUDE,E3,,UTAUT adoption survey,3
+R297,INCLUDE,,,GenAI diagnostic questioning and micro-scaffolding vs conventional class; quasi-exp N=192; post-test and SRL,3
+R298,EXCLUDE,E3,,Qualitative content analysis of generic GenAI use reflections,3
+R299,EXCLUDE,E3,,Answer feedback app; satisfaction survey only,3
+R300,UNSURE,,,GenAI-aware scaffold; two-cohort quasi-exp; grades; unclear if scaffold is in tool or instruction,3
+R301,EXCLUDE,E3,,Instructor feedback edited by GenAI; teacher use,3
+R304,UNSURE,,,SRL-phase GAI strategies with controlled experiment; unclear if scaffolding in tool,3
+R305,EXCLUDE,E4,SNOWBALL,Narrative review GenAI SRL and dependency,3
+R306,EXCLUDE,E1,,Researcher-ChatGPT dialogue methodology; no students,3
+R307,EXCLUDE,E5,,Multi-agent incl Socratic tutor; case study without control,3
+R309,EXCLUDE,E3,,Qualitative interviews on GenAI dependency,3
+R310,EXCLUDE,E7,,arXiv; survey plus framework,3
+R311,INCLUDE,,,GenAI reflective dialogue dashboard vs instructor feedback; quasi-exp N=180; SRL and performance,3
+R312,EXCLUDE,E1,,University teachers assessing ChatGPT texts,3
+R313,EXCLUDE,E4,,Systematic review AI tools global north/south,3
+R314,EXCLUDE,E3,,Practice reflection on generic GenAI self-training (French),3
+R315,EXCLUDE,E3,,Generic ChatGPT classroom activity; surveys,3
+R316,EXCLUDE,E3,,Generic ChatGPT/Quillbot writing aids in PjBL vs control,3
+R317,EXCLUDE,E3,,Generic ChatGPT for translation vs manual,3
+R318,EXCLUDE,E4,,Review of Copilot agents for inclusive teaching,3
+R319,EXCLUDE,E4,SNOWBALL,Systematic review GenAI critical thinking and problem solving,3
+R320,EXCLUDE,E3,,Qualitative case study of ChatGPT use,3
+R321,EXCLUDE,E3,,LLM-based critical thinking assessment system; validity pilot,3
+R322,UNSURE,,,GPT chatbots with hints and reflective prompts withholding solutions; comparative testing design unclear,3
+R323,UNSURE,,,GPT-4 chatbot plus metacognitive scaffolding vs AI-only vs control; scaffold locus and outcome fit unclear,3
+R324,EXCLUDE,E4,,Conceptual framework article,3
+R325,EXCLUDE,E4,,Systematic review plus assessment framework,3
+R326,EXCLUDE,E3,,Generic ChatGPT writing feedback vs peer feedback,3
+R331,EXCLUDE,E3,,Generic GenAI-assisted composing conditions,3
+R332,EXCLUDE,E3,,Readiness survey,3
+R333,EXCLUDE,E4,,Conceptual document-based study on libraries,3
+R334,EXCLUDE,E3,,Descriptive teaching practice with generic GenAI,3
+R335,EXCLUDE,E3,,Generic AI speaking apps vs control (Uzbek),3
+R337,EXCLUDE,E7,,arXiv; LLM used by researchers for sentiment analysis,3
+R338,EXCLUDE,E3,,Unscaffolded GenAI vs no GenAI,3
+R339,EXCLUDE,E3,,Cross-national survey,3
+R340,EXCLUDE,E4,,Scoping review XR collaborative learning,3
+R341,UNSURE,,,"Content would pass E3-E5 (scaffolded prompts, control, CT test); title in Indonesian: check full-text language (E9) at full text. Changed from E9 by lead reviewer",3
+R342,EXCLUDE,E7,,arXiv preprint (LLM metacognitive fraud simulation),3
+R343,EXCLUDE,E3,,Classroom Turing-test exercise description,3
+R344,EXCLUDE,E4,SNOWBALL,Chatbot framework with CT/SRL scaffolds; expert validation only,3
+R345,EXCLUDE,E3,,Perceptions survey of AI use,3
+R346,EXCLUDE,E3,,Perceptions survey,3
+R347,EXCLUDE,E4,,Interview with professor,3
+R348,EXCLUDE,E3,,Generic ChatGPT writing; single-group action research,3
+R349,EXCLUDE,E4,,Coordinator reflection; abstract only,3
+R350,EXCLUDE,E4,,Systematic review ethics GenAI (Spanish),3
+R351,EXCLUDE,E4,,Practice narrative of interdisciplinary initiative,3
+R352,EXCLUDE,E3,,Instructional plagiarism mitigation; no scaffolding tool,3
+R353,EXCLUDE,E5,,Game-based learning case study; qualitative,3
+R354,EXCLUDE,E4,SNOWBALL,Discussion-oriented framework; only preliminary observations,3
+R356,EXCLUDE,E3,,Guidance is instructional; generic GenAI; engagement/satisfaction only,3
+R357,EXCLUDE,E3,,Qualitative reflections on generic GenAI use,3
+R359,EXCLUDE,E7,,Research-in-progress doctoral design,3
+R360,EXCLUDE,E4,SNOWBALL,Review AI pedagogy engagement and critical thinking,3
+R361,EXCLUDE,E1,,Policy document analysis; no students,3
+R362,UNSURE,,,Self-disclosure vs non-disclosure chatbot RCT; self-reflection outcome; LLM and learning fit unclear,3
+R363,EXCLUDE,E1,,Mixed secondary/vocational/tertiary/adult sample,3
+R364,EXCLUDE,E3,,Generic Gemini student assistant system,3
+R365,UNSURE,,,CoRL-guided GenAI virtual teacher vs standard AI; quasi-exp; IELTS; scaffold function unclear,3
+R366,UNSURE,,,ChatGPT plus metacognitive strategies vs ChatGPT vs control; unclear if tool delivers; language check,3
+R368,EXCLUDE,E3,,Generic ChatGPT feedback; within-subjects single group,3
+R369,EXCLUDE,E5,,Custom GPT-4 tutor observational pilot,3
+R370,EXCLUDE,E3,,Generic chatbot writing support vs control,3
+R371,EXCLUDE,E3,,Generic GenAI curriculum; UTAUT2 SEM,3
+R372,EXCLUDE,E5,,Groups compared by prior AI use not intervention; no control; perception questionnaire,4
+R373,EXCLUDE,E7,,arXiv preprint,4
+R374,EXCLUDE,E1,,Evaluates LLM confidence judgments; participants not HE students as tool users,4
+R375,EXCLUDE,E1,,Analysis of student papers with AI detectors; dataset not participants,4
+R376,EXCLUDE,E3,,Multimodal vs text GenAI vs none; no reasoning scaffolding in tool,4
+R377,EXCLUDE,E3,,Unconfigured ChatGPT vs human expert vs tools; generic support,4
+R378,EXCLUDE,E1,,Co-design with high school students teachers and educators,4
+R379,EXCLUDE,E3,,Generic GenAI in design thinking workshops; case studies,4
+R380,EXCLUDE,E1,,Staff workshops; no student participants,4
+R381,EXCLUDE,E3,,UTAUT cross-sectional survey,4
+R382,EXCLUDE,E3,,Cross-sectional survey on AI anxiety; no tool,4
+R383,EXCLUDE,E3,,Unconfigured ChatGPT feedback vs peer feedback; case study,4
+R384,EXCLUDE,E3,,Open-ended survey of learner perceptions; design principles,4
+R385,EXCLUDE,E1,,Middle-school (college) pupils; French,4
+R386,EXCLUDE,E3,,Doubt-based instructional program; no LLM tool scaffolding students,4
+R387,EXCLUDE,E3,,Generic ChatGPT speaking practice vs face-to-face,4
+R390,EXCLUDE,E6,,Outcome is working alliance; also LLM status unclear,4
+R391,EXCLUDE,E4,SNOWBALL,Conceptual framework on regulation and agency in AI-mediated learning,4
+R392,EXCLUDE,E1,,Participants are teachers; LLM used for teaching evaluation,4
+R393,EXCLUDE,E1,,Ninth-grade learners,4
+R394,EXCLUDE,E1,,System evaluated via simulated student behaviour; no student participants,4
+R396,EXCLUDE,E1,,Participants are language teachers,4
+R397,EXCLUDE,E3,,Scaffolding in teaching stages; generic GenAI; historical comparison,4
+R398,EXCLUDE,E3,,Scaffold is reflection log not the LLM; single group,4
+R399,UNSURE,,,TCSA scaffold vs unguided GenAI quasi-exp; unclear if scaffold in tool,4
+R401,EXCLUDE,E3,,Chatbot for emotional disclosure in bibliotherapy; wellbeing outcome,4
+R403,EXCLUDE,E3,,Generic AI music tools; case study,4
+R404,EXCLUDE,E1,,General adult population; mental health,4
+R405,EXCLUDE,E3,,Cross-sectional survey on misinformation discernment,4
+R406,UNSURE,,,Theory-grounded chatbot vs general chatbot; feedback function unclear if elicits reasoning,4
+R407,EXCLUDE,E7,,SSRN preprint,4
+R408,EXCLUDE,E3,,Thinking routines with generic AI; surveys and observations,4
+R409,EXCLUDE,E4,,Reflective essay on teaching pilot,4
+R410,EXCLUDE,E4,,Editorial,4
+R411,INCLUDE,,,RAG dialogic questioning and clarifying system; quasi-exp with control; achievement test,4
+R412,EXCLUDE,E1,,Documentary audit of teaching guides,4
+R413,EXCLUDE,E3,,Unconfigured DeepSeek vs control,4
+R414,UNSURE,,,GenAI-guided prompt approach; unclear if guidance in tool; control group mentioned,4
+R415,EXCLUDE,E3,,Qualitative experiences of general AI use,4
+R416,EXCLUDE,E3,,Generic Tongyi chatbot vs traditional resources,4
+R417,EXCLUDE,E4,SNOWBALL,Systematic review on GenAI and self-regulated L2 learning,4
+R418,EXCLUDE,E3,,Pedagogical model with generic AI in exploration stages,4
+R419,EXCLUDE,E7,,arXiv preprint,4
+R420,EXCLUDE,E4,,Reflective essay on liberal education,4
+R421,EXCLUDE,E1,,AI detector test on essay dataset; no student participants,4
+R424,EXCLUDE,E3,,ChatGPT as unconfigured writing assistant vs control,4
+R425,EXCLUDE,E3,,Generic ChatGPT; qualitative with four students,4
+R426,UNSURE,,,Tutor-AI vs unguided AI vs none quasi-exp; tutor-AI configuration unclear,4
+R428,EXCLUDE,E3,,Qualitative study of general GenAI use,4
+R429,INCLUDE,,,LLM chatbot with guided questioning and hints vs conventional chatbot; pre-post tests,4
+R430,EXCLUDE,E3,,ChatGPT within flipped design thinking; scaffolding in instruction,4
+R431,EXCLUDE,E4,SNOWBALL,Conceptual framework on GenAI scaffolding and metacognitive calibration,4
+R432,UNSURE,,,Semigenerative reflection chatbot RCT; unclear if generative LLM,4
+R433,EXCLUDE,E3,,GenAI production pathway vs Python; generic tool,4
+R434,EXCLUDE,E3,,Generic GenAI writing feedback vs instructor feedback,4
+R435,EXCLUDE,E3,,Cross-sectional survey on AI-mediated strategy use,4
+R437,EXCLUDE,E5,,One-group pre-post design,4
+R438,EXCLUDE,E3,,Generic ChatGPT in PBL vs conventional PBL,4
+R439,EXCLUDE,E3,,Mixed-methods on general GenAI use; no comparison,4
+R441,INCLUDE,,,Socratic guided dialogue GenAI model vs control; reflection depth,4
+R442,EXCLUDE,E3,,Correlational survey on AI use,4
+R443,EXCLUDE,E3,,Generic ChatGPT in PBL vs PBL RCT,4
+R445,EXCLUDE,E3,,Generic ChatGPT within Kolb cycle vs traditional,4
+R447,EXCLUDE,E3,,Qualitative AI-use declaration guidelines,4
+R448,EXCLUDE,E1,,LLMs coding think-aloud dataset,4
+R449,EXCLUDE,E3,,Longitudinal analysis of general LLM use,4
+R450,EXCLUDE,E4,,Conceptual model paper,4
+R451,EXCLUDE,E3,,Narrative inquiry on ChatGPT use,4
+R452,EXCLUDE,E3,,Course redesign with generic tools; post questionnaire only,4
+R453,EXCLUDE,E1,,RAG benchmark on exam questions; no students,4
+R454,INCLUDE,,,ChatGPT hints-only vs solution feedback quasi-exp; achievement and transfer tests,4
+R455,EXCLUDE,E3,,Reflective qualitative notes; generic ChatGPT,4
+R456,EXCLUDE,E4,,Narrative review,4
+R457,EXCLUDE,E4,,Systematic review on GenAI adoption,4
+R458,EXCLUDE,E5,,One-group pre-post design,4
+R459,EXCLUDE,E7,,arXiv preprint,4
+R461,EXCLUDE,E3,,Open-ended survey of student attitudes,4
+R462,UNSURE,,,Bounded AI with compulsory reflection vs open vs none; unclear if in tool,4
+R464,EXCLUDE,E3,,GPT-4 as content generator for courses,4
+R465,EXCLUDE,E1,,Secondary lyceums; document analysis,4
+R466,EXCLUDE,E2,,Image-generation GenAI in Illustrator; not an LLM,4
+R467,EXCLUDE,E3,,AI literacy tutorials with generic tools; pre-experimental,4
+R468,EXCLUDE,E1,,Participants are faculty,4
+R470,EXCLUDE,E3,,Structured prompts for generic GenAI; design unclear,4
+R471,EXCLUDE,E3,,AI as code and content generator; case study,4
+R472,EXCLUDE,E4,,Editorial,4
+R473,EXCLUDE,E5,,SRL chatbot pilot single-group pre-post,4
+R474,EXCLUDE,E3,,Generic GAI vs none in design thinking,4
+R475,EXCLUDE,E4,,Narrative review,4
+R476,EXCLUDE,E1,,Data from faculty interviews,4
+R477,EXCLUDE,E3,,CALL tools incl generic ChatGPT vs textbook,4
+R478,INCLUDE,,,LLM coaching with open-ended metacognitive questions vs template prompts RCT; SRL and dependency,4
+R479,EXCLUDE,E1,,Review of LLM pentest agents; no students,4
+R481,EXCLUDE,E4,,Essay,4
+R482,EXCLUDE,E3,,Generic AI in writing course; vague design,4
+R483,EXCLUDE,E7,,Conference presentation abstract,4
+R484,INCLUDE,,,Chatbot-guided reflective debriefing vs human-moderated; controlled experiment; competence,4
+R485,UNSURE,,,DeepSeek chatbot with reflection questionnaire; design and function unclear,4
+R486,EXCLUDE,E3,,Generic ChatGPT in communicative model vs traditional,4
+R488,INCLUDE,,,GenAI tutoring with graduated hints quasi-exp; achievement test; confirm hints in tool,4
+R489,UNSURE,,,Chatbot feedback on SRL reflection vs conventional; unclear if generative LLM,4
+R491,EXCLUDE,E4,SNOWBALL,Integrative review on GenAI and critical thinking in HE,4
+R492,EXCLUDE,E3,,Multiple case study with generic tools,4
+R493,EXCLUDE,E3,,Scaffolding in AI literacy training not in tool,4
+R494,UNSURE,,,Purpose-built GenAI+Metaverse environment vs others; function and design unclear,4
+R495,EXCLUDE,E4,,Predictive conceptual exercise with no human participants,5
+R496,EXCLUDE,E4,,Review of 32 chatbot studies in medical education,5
+R497,UNSURE,,,ChatGPT plus metacognitive reflection prompt vs open ChatGPT; unclear if prompt delivered by tool; overreliance outcome,5
+R498,EXCLUDE,E3,,Secondary analysis of survey on general GenAI use,5
+R499,EXCLUDE,E3,,Instructional design intervention; no scaffolding GenAI tool; one-group pre-post,5
+R500,EXCLUDE,E5,,Single-group pre-post mixed methods with ChatGPT,5
+R501,EXCLUDE,E3,,Generic ChatGPT on dilemmas; no configured tool and no comparison,5
+R502,EXCLUDE,E3,,Qualitative essays on generic ChatGPT use,5
+R504,EXCLUDE,E3,,Longitudinal survey of GenAI dependency; no tool intervention,5
+R505,EXCLUDE,E4,,Scoping review of ChatGPT in EFL,5
+R506,EXCLUDE,E3,,Perception survey on ChatGPT use,5
+R507,EXCLUDE,E4,,Systematized review plus perception survey,5
+R508,UNSURE,,,Socratic prompting framework with preliminary comparison vs baseline; design and tool configuration unclear,5
+R509,EXCLUDE,E3,,Correlational survey of GenAI use,5
+R510,EXCLUDE,E3,,Generic ChatGPT writing support; one-group pre-post,5
+R511,EXCLUDE,E3,,Observational panel study of GenAI reliance; generic tool,5
+R512,EXCLUDE,E7,,arXiv preprint,5
+R513,EXCLUDE,E3,,Generic ChatGPT writing aid; qualitative focus,5
+R514,EXCLUDE,E1,,Teachers and ChatGPT grading reflections; no student participants,5
+R515,INCLUDE,,,Prompted ChatGPT requiring students to justify own claims vs standard ChatGPT and no AI; quasi-experiment; writing and uptake,5
+R516,EXCLUDE,E4,,Scoping review of ChatGPT in EFL writing,5
+R518,UNSURE,,,Socratic GenAI prompts; mixed students and teachers; within-subjects counterbalancing unclear,5
+R519,EXCLUDE,E4,,Practice-based reflection on instructor use of LLM,5
+R520,EXCLUDE,E3,,Generic iFlytek Spark integrated into instruction; no tool scaffolding described,5
+R521,UNSURE,,,GenAI feedback scaffolds with progress monitoring vs lecture control; unclear if tool elicits reasoning,5
+R523,EXCLUDE,E3,,Qualitative study of generic ChatGPT for lesson design,5
+R524,EXCLUDE,E3,,ChatGPT as feedback provider vs lecturer feedback,5
+R525,EXCLUDE,E3,,Generic AI apps ChatGPT and Poe vs control,5
+R526,EXCLUDE,E5,,Formative evaluation of AI serious game; no control group,5
+R527,EXCLUDE,E3,,Correlational survey on ChatGPT use,5
+R528,EXCLUDE,E4,,Conceptual cybernetic framework with illustrative case,5
+R530,INCLUDE,,,Explicit-thinking LLM with coaching and reflection mechanisms vs conventional LLM; quasi-experiment; metacognition and performance,5
+R532,EXCLUDE,E3,,Generic GenAI with instructor prompts in HCI activities; qualitative,5
+R535,EXCLUDE,E4,,Reflection on workshop design,5
+R536,EXCLUDE,E4,,Philosophical analysis,5
+R537,EXCLUDE,E4,,Educator guide to scaffolding GenAI use,5
+R538,EXCLUDE,E7,,arXiv preprint,5
+R539,EXCLUDE,E3,,ChatGPT used as grader,5
+R540,EXCLUDE,E3,,Qualitative classroom study with generic ChatGPT,5
+R541,UNSURE,,,GenAI knowledge-map system scaffolding reflection; demonstration experiment design unclear,5
+R542,EXCLUDE,E4,,Anniversary book on Arabic teaching,5
+R544,EXCLUDE,E3,,TAM-UTAUT adoption survey,5
+R545,EXCLUDE,E3,,Generic ChatGPT vs no ChatGPT,5
+R546,EXCLUDE,E4,,Conceptual cultural analysis,5
+R547,EXCLUDE,E1,,LLM exam performance; no student participants,5
+R548,EXCLUDE,E1,,Educator practice narratives; no student sample,5
+R549,EXCLUDE,E4,SNOWBALL,Systematic review and framework on GenAI supporting metacognitive regulation,5
+R550,EXCLUDE,E4,,Essay on AI in higher education,5
+R551,EXCLUDE,E3,,Generic ChatGPT and Bing in fashion courses; perception outcomes,5
+R552,EXCLUDE,E7,,CHI extended abstract,5
+R553,EXCLUDE,E3,,Case study with generic ChatGPT,5
+R554,EXCLUDE,E3,,Generic ChatGPT vs online resources,5
+R555,EXCLUDE,E2,,Feedback system built on BERT and RoBERTa; not generative LLM,5
+R556,EXCLUDE,E3,,Ex post facto perception survey,5
+R558,EXCLUDE,E3,,ChatGPT co-writing vs conventional writing; no tool-level scaffolding,5
+R559,EXCLUDE,E7,,arXiv preprint,5
+R560,EXCLUDE,E4,SNOWBALL,Working paper proposing role-based framework for GenAI use,5
+R561,EXCLUDE,E3,,Generic AI-assisted writing vs traditional,5
+R562,EXCLUDE,E3,,Generic AI tools with reflection in assessment design; scaffolding in instruction,5
+R563,EXCLUDE,E3,,Generic ChatGPT vs no AI in programming,5
+R564,EXCLUDE,E1,,Authors experimenting with Perplexity; no students,5
+R565,EXCLUDE,E3,,Generic ChatGPT vs online search,5
+R566,EXCLUDE,E3,,Correlational survey on GenAI use,5
+R567,EXCLUDE,E3,,Timing of generic genAI use; scaffolding in instructional sequence,5
+R568,EXCLUDE,E3,,Cross-sectional survey on ChatGPT use,5
+R569,EXCLUDE,E3,,ChatGPT as feedback provider; single group,5
+R570,UNSURE,,,Purpose-built ChatGPT flipped guiding approach vs control; unclear if tool elicits reasoning,5
+R571,EXCLUDE,E4,,Theoretical-conceptual article on flipped classroom platforms,5
+R572,EXCLUDE,E3,,Generic GenAI in instructional design training; survey,5
+R573,EXCLUDE,E3,,Concept map scaffold external to GenAI; tool not scaffolding,5
+R574,EXCLUDE,E4,,Scoping review in postgraduate public health,5
+R575,UNSURE,,,ChatGPT in STAD with tiered prompts; unclear if scaffolding in tool or instruction,5
+R576,EXCLUDE,E1,,Staff development presentation; no student sample,5
+R577,EXCLUDE,E4,,Conceptual framework paper,5
+R578,INCLUDE,,,Custom AI with Feynman metacognitive scaffolding vs minimally prompted ChatGPT; quasi-experiment; scores,5
+R580,EXCLUDE,E3,,Metacognitive instruction by teacher; GenAI feedback generic in both groups,5
+R581,EXCLUDE,E3,,ChatGPT as feedback provider vs teacher,5
+R582,EXCLUDE,E3,,GenAI as computational assistant with instructor verification tasks,5
+R583,EXCLUDE,E3,,Case study of generic AI writing use,5
+R584,EXCLUDE,E3,,GenAI used to generate case narratives; content generation,5
+R585,EXCLUDE,E3,,ChatGPT generating problems; no control,5
+R586,EXCLUDE,E4,,Conceptual course construction paper,5
+R587,EXCLUDE,E3,,Action research with standardized ChatGPT analysis; no control,5
+R589,EXCLUDE,E4,,Pedagogical framework proposal,5
+R590,EXCLUDE,E5,,LLM peer feedback guidance trial; no control group,5
+R591,EXCLUDE,E7,,arXiv preprint,5
+R594,EXCLUDE,E7,,Work-in-progress paper,5
+R596,EXCLUDE,E4,SNOWBALL,Theory synthesis on GenAI as metacognitive co-regulator,5
+R598,EXCLUDE,E4,,Essay on GenAI in counselor education,5
+R599,EXCLUDE,E4,,Systematic review on faculty workload,5
+R600,EXCLUDE,E4,SNOWBALL,Systematic review of GenAI and higher-order thinking,5
+R601,EXCLUDE,E3,,Generic ChatGPT integrated in curriculum framework; no tool configuration described,5
+R602,INCLUDE,,,Custom GPT-4o Socratic scaffolding withholding answers vs teacher feedback; quasi-experiment; post-test,5
+R603,EXCLUDE,E3,,Perceptions of generic ChatGPT feedback,5
+R604,EXCLUDE,E2,,Task-oriented WhatsApp chatbot; no generative LLM indicated,5
+R605,EXCLUDE,E3,,ChatGPT answering exam vs students; no tool intervention,5
+R606,UNSURE,,,GAI scaffolding vs conventional environment; configuration and outcome fit unclear,5
+R607,EXCLUDE,E3,,Generic GenAI tools in foresight module; surveys and qualitative,5
+R608,EXCLUDE,E4,SNOWBALL,Meta-analysis of Gen-AI effects on critical thinking with role moderators,5
+R609,EXCLUDE,E6,,Only self-efficacy outcome,5
+R610,EXCLUDE,E4,,Conceptual article on writing technologies,5
+R611,EXCLUDE,E4,,Scoping review of Gen-AI in nursing education,5
+R612,EXCLUDE,E3,,Grammarly and ChatGPT feedback; single group,5
+R614,EXCLUDE,E3,,Generic ChatGPT feedback; preference outcomes,5
+R615,EXCLUDE,E3,,Mental health chatbot; not reasoning scaffolding,5

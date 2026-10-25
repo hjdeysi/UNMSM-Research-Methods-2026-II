@@ -81,6 +81,14 @@ Queue assessed in priority order (`screening/fulltext_assessment_round1.csv`). E
 - Counts up to the cap: 34 reports sought; 11 not retrieved (paywall or site refusal); 23 assessed; 13 excluded (E3 10, E2 1, E6 1, E9 1); **10 included**.
 - Correction logged: priorities #33–34 were initially skipped by the lead reviewer and assessed afterwards; queue order was restored before applying the cap.
 
+## Blind verification results and final counts (2026-10-24, 22:16)
+Author verified 116 records blind to the AI labels (`screening/verification_human_decisions.xlsx`). Binary agreement 96.6 % (112/116), Cohen's kappa 0.93 (the set is enriched with tool-passed records, so kappa is not a population estimate). False negatives: 1 of 45 sampled exclusions rescued (R390, 2.2 %); point estimate ≈ 10 false negatives among the 409 exclusions not verified, declared as a limitation. The author excluded 3 tool-passed records (R304 E3, R541 E5, R076 E3); human decisions are final at title/abstract. R390 joins the full-text queue below the cap; R076 moves from full-text exclusion to title/abstract exclusion.
+
+Final PRISMA counts (`prisma/counts.json`): identified 617; duplicates 2; screened 615; excluded at title/abstract 507 (human 98, automation 409); sought 108; not retrieved 11; not assessed (cap) 75; assessed 22; excluded 12 (E3 9, E2 1, E6 1, E9 1); included 10.
+
+## Deviation 2 — no "other methods" branch
+Backward citation searching of SNOWBALL-flagged reviews and of Zhou, Liu & Chiu (2026) was planned but not performed before the deadline. The diagram therefore reports databases only.
+
 ## Seed test of the criteria
 | Seed | I1 | I2 | I3 | I4 | I5 | I6 | Result |
 |---|---|---|---|---|---|---|---|
