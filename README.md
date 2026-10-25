@@ -10,6 +10,7 @@
 
 - [Deliverable 01 - Paradigm Justification Statement](01_Paradigm_Justification/)
 - [Deliverable 02 - Method Fit Matrix (E.D.F.C.V.)](02_Method_Fit_Matrix/)
+- [Deliverable 03 - Research Protocol](03_Research_Protocol/)
 - [Deliverable 04 - Mini Systematic Review + PRISMA 2020 + Gap Analysis](04_Systematic_Review/)
 - [Deliverable 05 - Reproducible ML Pipeline](05_Reproducible_Pipeline/) · repository: https://github.com/hjdeysi/repro-lab
 - [Deliverable 07 - Model Card + Datasheet](07_Model_Card_Datasheet/)
