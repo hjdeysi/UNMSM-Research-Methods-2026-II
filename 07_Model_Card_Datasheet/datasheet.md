@@ -11,7 +11,7 @@ Scope: this datasheet covers the annotated scenario corpus (thesis artifact 1). 
 | Element | Documentation | Status | Action before collection |
 |---|---|---|---|
 | Purpose | Provide a Spanish-language resource of academic-integrity scenarios involving generative AI, annotated for the four cardinal virtues (prudence, justice, fortitude, temperance) plus academic honesty, to inform the design and evaluation of a reflective scaffolding agent | Defined | — |
-| Gap addressed | Existing moral-judgment resources (e.g., ETHICS; Hendrycks et al., 2021) are in English, crowd-annotated without a unified philosophical framework, and outside the academic-integrity domain | Defined | Re-check against the Deliverable 04 review |
+| Gap addressed | Existing moral-judgment resources (e.g., ETHICS; Hendrycks et al., 2021) are in English, crowd-annotated without a unified philosophical framework, and outside the academic-integrity domain | Defined | Checked against the Deliverable 04 review: none of the 10 included studies measures academic integrity or an ethical outcome |
 | Creators | Doctoral researcher (UNMSM, DSR thesis) | Defined | — |
 | Funding | Self-funded; external calls to be assessed | UNKNOWN | Confirm before collection |
 

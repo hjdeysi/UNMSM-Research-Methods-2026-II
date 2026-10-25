@@ -58,7 +58,7 @@ None yet. Results will be reported for every outcome, by condition, with effect 
 | Moralising or cultural bias in virtue judgments | Exemplar-anchored annotation; expert validation | Planned |
 
 ## 9. Caveats and recommendations
-Evidence from the Deliverable 04 review shows that tool-level scaffolding improved process measures more consistently than unassisted performance; claims about the agent should be limited to what the evaluation measures. The agent must not be presented as a detector of academic misconduct.
+In the Deliverable 04 review, most included studies (7/10) report objective performance gains, but two found no gain in unassisted performance and only two measured delayed effects; claims about the agent should be limited to what the evaluation measures. The agent must not be presented as a detector of academic misconduct.
 
 ## References
 Gregor, S., & Hevner, A. R. (2013). *MIS Quarterly, 37*(2), 337–355. https://doi.org/10.25300/MISQ/2013/37.2.01 · Hevner, A. R., et al. (2004). *MIS Quarterly, 28*(1), 75–105. https://doi.org/10.2307/25148625 · Kember, D., et al. (2008). *Assessment & Evaluation in Higher Education, 33*(4), 369–379. https://doi.org/10.1080/02602930701293355 · Morales-García, W. C., et al. (2024). *Frontiers in Education, 9*, 1323898. https://doi.org/10.3389/feduc.2024.1323898

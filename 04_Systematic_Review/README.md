@@ -13,7 +13,7 @@ Student: Deisy Lizbeth Acosta Ticse
 | Component | File |
 |---|---|
 | 1. 10 key articles from a documented Boolean search in Semantic Scholar | Search string and log: [`search/search_notes.md`](search/search_notes.md), [`search/run_search.py`](search/run_search.py), [`search/search_log.tsv`](search/search_log.tsv) · Included studies: [`synthesis/D04_extraction_and_gaps.xlsx`](synthesis/D04_extraction_and_gaps.xlsx) (sheet *Extraction_matrix*) · Zotero/Mendeley import: [`synthesis/D04_included_10.ris`](synthesis/D04_included_10.ris) |
-| 2. PRISMA 2020 flow diagram (official template), four phases, counts that add up | [`prisma/PRISMA_2020_flow_D04_Acosta.pdf`](prisma/PRISMA_2020_flow_D04_Acosta.pdf) (Word source in the same folder; counts in [`prisma/counts.json`](prisma/counts.json)) |
+| 2. PRISMA 2020 flow diagram (official template), four phases, counts that add up | [`prisma/PRISMA_2020_flow_D04_Acosta.pdf`](prisma/PRISMA_2020_flow_D04_Acosta.pdf) (counts in [`prisma/counts.json`](prisma/counts.json)) |
 | 3. Gap analysis table (knowledge · methodological · contextual · theoretical) with evidence from the corpus | [`synthesis/D04_extraction_and_gaps.xlsx`](synthesis/D04_extraction_and_gaps.xlsx) (sheet *Gap_analysis*) |
 
 ## Method record
