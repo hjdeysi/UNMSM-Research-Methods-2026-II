@@ -21,7 +21,7 @@ Scope: this datasheet covers the annotated scenario corpus (thesis artifact 1). 
 | Instance | One written scenario in which a university student faces a decision about delegating academic work to generative AI | Defined | Freeze the scenario template |
 | Labels | Per scenario and per virtue: relevance and enacted/violated judgment, anchored in expert-validated exemplar cases (not rule-based definitions) | Planned | Write the annotation guide with exemplars |
 | Number of instances | — | UNKNOWN | Set by pilot agreement and annotation budget |
-| Scenario source | — | UNKNOWN | Decide: expert-written, adapted from documented cases, or both |
+| Scenario source | Both: scenarios written by experts and scenarios adapted from documented cases | Defined | Remove identifiers from adapted cases; record origin of each scenario |
 | Personal data | Scenarios are not intended to contain personal data | Planned | Screening step to remove identifiers if real cases are adapted |
 | Language | Spanish (Peruvian university context) | Defined | — |
 | Splits | — | UNKNOWN | Define after size is known; split by scenario to avoid leakage |

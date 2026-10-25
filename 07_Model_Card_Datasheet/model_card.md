@@ -9,7 +9,8 @@ Framework: Mitchell et al. (2019), *Model Cards for Model Reporting*, FAT* '19, 
 | Element | Documentation | Status |
 |---|---|---|
 | Type | LLM-based conversational agent implementing Socratic, virtue-oriented scaffolding when a student asks it to complete academic work | Defined |
-| Base model | Local open model vs commercial API not yet chosen; the choice depends on privacy (no student data to third-party providers without a data-processing agreement) | UNKNOWN |
+| Base model | Commercial LLM accessed through an API (specific provider and version to be fixed and reported) | Defined (provider UNKNOWN) |
+| Privacy condition of the API choice | No student data sent to the provider without a data-processing agreement; messages pseudonymised before sending; provider's data-retention terms documented | Planned |
 | Configuration | System prompt and scaffolding policy derived from the annotated corpus (see datasheet) | Planned |
 | Research approach | Design Science Research; contribution: nascent design theory (Hevner et al., 2004; Gregor & Hevner, 2013) | Defined |
 
@@ -52,7 +53,7 @@ None yet. Results will be reported for every outcome, by condition, with effect 
 | Risk | Mitigation | Status |
 |---|---|---|
 | Researcher is designer, instructor and evaluator | Ethics approval; consent collected by a third party and decoupled from grading; blinded external coders | Planned |
-| Student data exposure | Logs pseudonymised at capture; institution-controlled storage; never in public repositories | Defined |
+| Student data exposure (API provider) | Logs pseudonymised at capture and before any API call; data-processing agreement with the provider; institution-controlled storage; never in public repositories | Defined |
 | Paternalism / frustration | Agent asks rather than refuses; monitor disengagement in logs | Planned |
 | Moralising or cultural bias in virtue judgments | Exemplar-anchored annotation; expert validation | Planned |
 

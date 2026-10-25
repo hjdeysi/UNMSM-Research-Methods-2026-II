@@ -11,4 +11,4 @@ Prospective documentation of the two artifacts of the doctoral thesis, written *
 
 Every element carries a status (**Defined / Planned / UNKNOWN**) and, where open, the action required before collection. "NOT YET COLLECTED" is used only for data values, not for decisions already taken.
 
-AI-use disclosure: Claude (Anthropic) helped structure both documents from the author's existing protocol decisions; content was reviewed by the author.
+AI-use disclosure: Claude (Anthropic) helped structure both documents from the author's existing protocol decisions; content was reviewed and confirmed by the author (24 Oct 2026).
