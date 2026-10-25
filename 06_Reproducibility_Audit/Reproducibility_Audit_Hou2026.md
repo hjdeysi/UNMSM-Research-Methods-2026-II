@@ -1,6 +1,6 @@
 # Reproducibility Audit Report
 
-Deliverable 06 · Research Methods and Scientific Integrity in AI · UNMSM 2026-II · Deisy Lizbeth Acosta Ticse
+Deliverable 06 · Research Methods and Scientific Integrity in AI · UNMSM 2026-II · Deisy Lizbeth Acosta Ticse\
 Instrument: Session 6 reproducibility scorecard (9 items; Yes / Partial / No). Audit date: 25 Oct 2026.
 
 ## 1. Paper metadata
@@ -16,22 +16,22 @@ Hou, X., Liu, Z., Wang, G., & Shi, N. (2026). Bridging awareness and behavior: d
 | Intervention | AI agent in a customised Jupyter Notebook; rule-based triggers (e.g., first keystroke < 60 s, idle > 10 min) launch non-directive metacognitive prompts; example prompts in Table 1; **underlying LLM not named** |
 | Control | Native Jupyter Notebook, no AI |
 | Outcomes | Post-test programming score (isomorphic task; rubric; two blinded raters; ICC = 0.81 on a 30 % subset); modified MAI (self-report); 11 log-derived behaviour metrics |
-| Analysis | t-tests / Mann–Whitney U; linear mixed model for MAI; Bonferroni for the 11 log metrics; Shapiro–Wilk, Q–Q plots, Levene |
+| Analysis | t-tests / Mann–Whitney U; linear mixed model for MAI; Bonferroni for the 11 log metrics; Shapiro–Wilk, Levene |
 
 ## 3. Scorecard
 | # | Item | Rating | Evidence and reasoning |
 |---|---|---|---|
 | 1 | Seeds reported, many runs? | **No** | The `=RAND()` allocation has no recorded seed, so the allocation cannot be regenerated. A single trial; no replication. |
-| 2 | Splits described? (here: group allocation) | **Partial** | Method and group sizes given; concealment, attrition by group and age/gender balance not reported. |
-| 3 | Leakage checked? (here: contamination and outcome overlap) | **Partial** | Raters blinded (good). No safeguards against information flowing between groups in the same course; the post-test is isomorphic to practice tasks, so it measures near transfer only. |
-| 4 | Tuning separated? (here: trigger thresholds) | **Partial** | Thresholds are called "predefined", but their origin is not stated; it is unclear whether they were set before or after seeing this cohort's logs. |
+| 2 | Splits described? (trial: group allocation) | **Partial** | Method and group sizes given; allocation concealment and attrition by group not reported. |
+| 3 | Leakage checked? (trial: contamination, outcome overlap) | **Partial** | Raters blinded (good). No safeguards against information flowing between groups in the same course; the post-test is an isomorphic problem, so it measures near transfer only. |
+| 4 | Tuning separated? (trial: trigger thresholds) | **Partial** | Thresholds are called "predefined", but their origin is not stated; it is unclear whether they were set before or after seeing this cohort's logs. |
 | 5 | Statistical test named? | **Yes** | Tests, assumption checks and correction for the log metrics are named. |
 | 6 | Effect size and CI? | **Partial** | Cohen's d and r reported; **no confidence intervals**; the headline d is internally inconsistent (Section 4). |
 | 7 | External validation? | **No** | One site, one course, one cohort; authors acknowledge limited generalisability. |
 | 8 | Compute documented? | **No** | LLM identity and version, Python/SciPy/Pandas versions, Jupyter extension and hardware are not reported. |
 | 9 | Code and data available? | **Partial** | Data "available by the authors, without undue reservation" (on request); no code or full prompt set released. |
 
-**Overall score: 7 / 18 (39 %)** — Yes = 2, Partial = 1, No = 0. **Judgement: low reproducibility.** The design is sound in principle (randomised, blinded scoring, baseline equivalence tested), but a stranger could not rebuild the intervention (unknown model, partial prompts, no code) or regenerate the allocation, and the reported statistics contain inconsistencies.
+**Overall score: 7 / 18 (39 %)** (my scoring rule: Yes = 2, Partial = 1, No = 0). The scorecard was written for ML experiments; for this educational RCT, items 2–4 were mapped to their trial equivalents (shown in brackets), not marked N/A, because each has a real counterpart. **Judgement: low reproducibility.** The design is sound in principle (randomised, blinded scoring, baseline equivalence tested), but a stranger could not rebuild the intervention (unknown model, partial prompts, no code) or regenerate the allocation, and the reported statistics contain inconsistencies.
 
 ## 4. Statistical rigor — numbers I recomputed from the reported values
 | Reported | Recomputed | Problem |
